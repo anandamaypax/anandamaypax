@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Aritra, a doctoral student in Marketing at the Indian School of Business, Hyderabad.
+
 <!--
 **anandamaypax/anandamaypax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
